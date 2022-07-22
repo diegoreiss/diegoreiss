@@ -138,4 +138,5 @@
 </div>
 <div align="center">
    <h1><a href="https://linkedin.com/in/diegoreis42" target="_blank">Let's work together➝</a></h1>
+   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 </div>
