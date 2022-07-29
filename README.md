@@ -1,4 +1,5 @@
 ![Github Snake](https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake.svg)
+![](https://visitor-badge.laobi.icu/badge?page_id=diegoreiss.diegoreiss)
 <div align="center">
   <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
   <a href="https://linkedin.com/in/diegoreis42" target="_blank">
@@ -28,7 +29,6 @@
   <a href="https://github.com/diegoreiss">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreiss&layout=compact&theme=dark"/>
-
 </div>
 <br>
 <div align="center">
