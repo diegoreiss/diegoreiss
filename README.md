@@ -114,7 +114,7 @@
         <tr>
           <td>Repository name</td>
           <td>
-            <a href="https://github.com/diegoreiss/mercadinho">mercadinho</a>
+            <a href="https://github.com/diegoreiss/mercadinho">foguinho-express</a>
           </td>
         </tr>
         <tr>
