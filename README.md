@@ -36,7 +36,6 @@
   <h1>👨‍💻About me</h1>
   <p>
     Hello, my name is Diego Reis and i am a <b>problem solver</b>, i started in the technology area recently studying the <b>Python</b> language and since then i am improving my knowledge in this language, building projects that make me evolve as a developer and in my spare time i solve problems on sites like <b>Codewars</b>
-  <p>Fun fact: I'm studying Java secretly XD</p>
   </p>
 </div>
 <br>
