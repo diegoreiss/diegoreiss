@@ -1,6 +1,6 @@
 ![Github Snake](https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake.svg)
 [![Github](https://img.shields.io/github/followers/diegoreiss?label=Follow&style=social)](https://github.com/diegoreiss)
-![](https://visitor-badge.laobi.icu/badge?page_id=diegoreiss.diegoreiss)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=diegoreiss.visitor-badge)
 <div align="center">
   <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
   <a href="https://linkedin.com/in/diegoreis42" target="_blank">
