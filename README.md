@@ -35,8 +35,7 @@
 <div align="center">
   <h1>👨‍💻About me</h1> 
   <p>
-    Hello, my name is Diego Reis and i am a <b>problem solver</b>, i started in the technology area recently studying the <b>Python</b> language and since then i am improving my knowledge in this language, building projects that make me evolve as a developer and in my spare time i solve problems on sites like <b>Codewars</b>
-  </p>
+    I started my tech career in early 2022 as a Python Developer autonomously, since then I've been improving my technical skills and interpersonal skills, differentiating myself in communication and problem solving.
 </div>
 <br>
 <div align="center">
