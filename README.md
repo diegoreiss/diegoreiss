@@ -131,7 +131,7 @@
 <br>
 
 <div align="center">
-  <h1>💡My Projects</h1>
+  <h1>💡Projects</h1>
   
   <a href="https://github.com/diegoreiss/foguinho-express">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=foguinho-express&theme=gotham">
