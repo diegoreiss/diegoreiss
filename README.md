@@ -34,6 +34,11 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/diegoportal_reis">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  
   <br>
   <br>
   
