@@ -1,4 +1,3 @@
-![Github Snake](https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake.svg)
 [![Github](https://img.shields.io/github/followers/diegoreiss?label=Follow&style=social)](https://github.com/diegoreiss)
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=diegoreiss.visitor-badge) -->
 
