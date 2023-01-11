@@ -19,6 +19,11 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
   
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/reiss42">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
+  </a>
+  
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/diegoportal_reis">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
