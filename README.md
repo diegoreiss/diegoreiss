@@ -14,6 +14,11 @@
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   
+  <!-- GeeksForGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/reiss">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+  
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/diegoportal_reis">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
