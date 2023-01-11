@@ -24,6 +24,11 @@
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
   </a>
   
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/reis42">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white">
+  </a>
+  
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/diegoportal_reis">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
