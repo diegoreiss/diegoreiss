@@ -19,11 +19,6 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
   
-  <!-- FreeCodeCamp -->
-  <a href="https://www.freecodecamp.org/reis42">
-    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
-  </a>
-  
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/reiss42">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
