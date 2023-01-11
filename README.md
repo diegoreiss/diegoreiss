@@ -145,7 +145,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=pokemon-battle-simulator&theme=dark">
   </a>
   
-  <a href="https://github.com/diegoreiss/consultorio-crud">
+  <a href="https://github.com/diegoreiss/consultorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=consultorio-crud&theme=dark">
   </a>    
   
