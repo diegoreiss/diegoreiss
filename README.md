@@ -48,7 +48,16 @@
   
   <br>
   <br>
+</div>
+
+<div align="center">
+  <a href="https://github.com/diegoreiss"></a>
   
+  <!-- Githug Readme Stats -->
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoreiss&theme=dark">
+  
+  <!-- Github most used languages -->
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreiss&layout=compact&theme=dark"/>
 </div>
 
 <div align="center">
@@ -127,7 +136,23 @@
 </div>
 
 <br>
-
+<div align="center">
+  <h1>💡Projects</h1>
+  
+  <a href="https://github.com/diegoreiss/foguinho-express">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=foguinho-express&theme=dark">
+  </a>
+  
+  <a href="https://github.com/diegoreiss/pokemon-battle-simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=pokemon-battle-simulator&theme=dark">
+  </a>
+  
+  <a href="https://github.com/diegoreiss/consultorio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=consultorio-crud&theme=dark">
+  </a>    
+  
+<br>
+</div>
 <hr>
 
 <div align="center">
