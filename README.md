@@ -1,5 +1,11 @@
-![](https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diegoreiss/diegoreiss/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
 [![Github](https://img.shields.io/github/followers/diegoreiss?label=Follow&style=social)](https://github.com/diegoreiss)
+
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=diegoreiss.visitor-badge) -->
 
 <div align="center">
