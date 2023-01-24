@@ -152,32 +152,3 @@
     </tr>
   </table>
 </div>
-
-<br>
-<div align="center">
-  <h1>💡Projects</h1>
-  
-  <a href="https://github.com/diegoreiss/foguinho-express">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=foguinho-express&theme=dark">
-  </a>
-  
-  <a href="https://github.com/diegoreiss/pokemon-battle-simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=pokemon-battle-simulator&theme=dark">
-  </a>
-  
-  <a href="https://github.com/diegoreiss/consultorio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diegoreiss&repo=consultorio-crud&theme=dark">
-  </a>    
-  
-<br>
-</div>
-<hr>
-
-<div align="center">
-  <p>Interested?</p>
-</div>
-
-<div align="center">
-   <h1><a href="https://linkedin.com/in/diegoreis42" target="_blank">Let's work together➝</a></h1>
-   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-</div>
