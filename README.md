@@ -53,8 +53,17 @@
 <div align="center">
   <a href="https://github.com/diegoreiss"></a>
   
-  <!-- Githug Readme Stats -->
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoreiss&theme=dark">
+  <picture>
+    <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true&theme=dark" 
+            media="(prefers-color-scheme: dark)"
+    />
+    <source
+            srcset="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true" />
+</picture>
   
   <!-- Github most used languages -->
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreiss&layout=compact&theme=dark"/>
