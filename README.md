@@ -6,8 +6,6 @@
 
 [![Github](https://img.shields.io/github/followers/diegoreiss?label=Follow&style=social)](https://github.com/diegoreiss)
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=diegoreiss.visitor-badge) -->
-
 <div align="center">
   
   <h1>
@@ -87,9 +85,8 @@
 <div align="center">
   <a href="https://github.com/diegoreiss"></a>
   
-
 <br>
-
+  
 <div align="center">
   <h1>👨‍💻About me</h1> 
   <p>
