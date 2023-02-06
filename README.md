@@ -42,6 +42,7 @@
   <a href="https://leetcode.com/diegoreiss/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
   </a>
+  
   <br>
   <br>
   
@@ -84,7 +85,7 @@
 
 <div align="center">
   <a href="https://github.com/diegoreiss"></a>
-  
+ 
 <br>
   
 <div align="center">
