@@ -7,7 +7,6 @@
 [![Github](https://img.shields.io/github/followers/diegoreiss?label=Follow&style=social)](https://github.com/diegoreiss)
 
 <div align="center">
-  
   <h1>
     Hi There, Welcome to my Github profile! 
     <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
@@ -50,14 +49,12 @@
   <a href="https://www.codewars.com/users/diegoreiss">
     <img src="https://www.codewars.com/users/diegoreiss/badges/large" alt="diegoreiss Codewars Badge">
   </a>
-  
   <br>
   <br>
 </div>
 
 <div align="center">
   <a href="https://github.com/diegoreiss"></a>
-  
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true&theme=transparent" 
@@ -69,7 +66,6 @@
     />
     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoreiss&show_icons=true" />
   </picture>
-  
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoreiss&layout=compact&theme=transparent"
