@@ -17,11 +17,6 @@
     <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   
-  <!-- GeeksForGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/reiss">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-  
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/reiss42">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
