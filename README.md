@@ -125,6 +125,7 @@
       <td>Frameworks</td>
       <td>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
       </td>
     </tr>
     <tr>
